@@ -2,7 +2,9 @@
 
 Light terminal theme based on the Night Owl Light VSCode theme by Sarah Drasner
 
-![Light Theme](./screenshot-1.png)
+![Light Theme](./terminal.png)
+
+![Colors](./colors.png)
 
 ## Meta
 
